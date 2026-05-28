@@ -1,4 +1,4 @@
-```js id="e4c7iy"
+
 const CACHE_NAME = '1000donghua-v1';
 
 const urlsToCache = [
@@ -36,4 +36,4 @@ self.addEventListener('fetch', event => {
     })
   );
 });
-```
+
